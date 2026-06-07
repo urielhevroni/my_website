@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 60" width="240" height="60">
+  <rect x="2" y="10" width="40" height="40" rx="4" fill="#181818"/>
+  <path d="M12 38 L20 24 L28 32 L36 18" stroke="#da291c" stroke-width="3.5" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="36" cy="18" r="3" fill="#da291c"/>
+  <text x="52" y="32" font-family="'Heebo', Arial, sans-serif" font-size="22" font-weight="700" fill="#181818">קרן <tspan fill="#da291c">קפיטל</tspan></text>
+  <text x="52" y="46" font-family="'Heebo', Arial, sans-serif" font-size="9" letter-spacing="2" fill="#969696">WEALTH ADVISORY</text>
+</svg>
